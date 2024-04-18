@@ -10,8 +10,8 @@ function Navbar(){
     }
 
     return(
-        <div className="static flex justify-between items-center h-24 px-16 text-white bg-[#B0A695]">
-                <h1 className="w-full ml-4 text-2xl font-bold text-[#EBE3D5]">Aka<span className="text-[#776B5D]">demy</span></h1>
+        <div className="flex justify-between items-center h-24 px-16 text-white shadow-lg shadow-white">
+                <h1 className="w-full ml-4 text-2xl font-bold text-[#F8F6E3]">Aka<span className="text-[#6AD4DD]">demy</span></h1>
                 <ul className="hidden md:flex mx-6 w-[50%] left-[50%]">
                     <li className="p-3">
                         <a href="#home">Home</a>
@@ -35,8 +35,8 @@ function Navbar(){
 
             </div>
 
-            <div className= {nav ? "fixed right-0 top-0 w-[45%] h-full border-r border-r-white-900 bg-[#776B5D]" : "fixed left-[-100%]"}>
-                <ul className="md:flex p-2 px-8 text-xl mt-16 text-white uppercase">
+            <div className= {nav ? "fixed right-0 top-0 w-[45%] h-full border-r border-r-white-900 bg-[#7AA2E3]" : "fixed left-[-100%]"}>
+                <ul className="md:flex p-2 px-8 text-xl mt-16 text-[#F8F6E3] uppercase">
                     <li className="p-3">
                         <a href="#home">Home</a>
                     </li>

@@ -8,7 +8,6 @@ body {
     font-family: "Poppins", sans-serif;
     background-image: 
     linear-gradient(
-      to right in srgb,
-      #776B5D 10% 1%, 23%, #EBE3D5 50%, 79%, #776B5D 90% 100%
-    );
+      to bottom in srgb,
+      #7AA2E3, #97E7E1, #F8F6E3);
 }
