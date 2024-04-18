@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,600;0,700;0,800;0,900;1,600;1,700;1,800;1,900&display=swap');
+
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-image: 
+    linear-gradient(
+      to right in srgb,
+      #776B5D 10% 1%, 23%, #EBE3D5 50%, 79%, #776B5D 90% 100%
+    );
+}
