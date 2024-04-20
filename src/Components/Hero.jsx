@@ -4,10 +4,10 @@ import { ReactTyped } from "react-typed";
 function Hero(){
     return(
         <div className="text-black" id="home">
-            <div className="max-w-[750px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
-                <p className="text-[#F8F6E3] font-bold p-2 text-xl">Craft Your Path to Excellence with Akademy</p>
+            <div className="max-w-[550px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
+                <p className="text-[#F8F6E3] font-bold p-2 text-xl">Discover limitless potential with Akademy</p>
                 <h1 className="md:text-6xl sm:text-5xl text-3xl font-bold md:py-6">
-                Embark on a Journey to Unlock Your True Potential and Thrive!
+                Unleash Your Greatness Today
                 </h1>
                 <div className="flex justify-center items-center">
                     <ReactTyped

@@ -5,9 +5,10 @@ import Hero from './Components/Hero';
 import Features from "./Components/Features";
 import Services from "./Components/Services";
 import Plans from "./Components/Plans";
-import SellingPoint from "./Components/USP";
+import Testimony from "./Components/Testimony";
 import Action from "./Components/CTA";
 import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -17,9 +18,10 @@ function App() {
       <Features />
       <Services />
       <Plans />
-      <SellingPoint/>
+      <Testimony />
       <Action />
       <Contact />
+      <Footer />
     </div>
   );
 }

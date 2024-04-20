@@ -10,7 +10,7 @@ function Navbar(){
     }
 
     return(
-        <div className="flex justify-between items-center h-24 px-16 text-white shadow-lg shadow-white">
+        <div className="flex justify-between items-center h-24 px-16 text-white shadow-lg shadow-blue-300">
                 <h1 className="w-full ml-4 text-2xl font-bold text-[#F8F6E3]">Aka<span className="text-[#6AD4DD]">demy</span></h1>
                 <ul className="hidden md:flex mx-6 w-[50%] left-[50%]">
                     <li className="p-3">

@@ -14,10 +14,9 @@ function Plans(){
 
             <div className="grid grid-cols-1 md:grid-cols-3 mx-auto w-[450px] md:w-[1240px] gap-6">
                 <div className="border-4  border-blue-400 rounded-2xl p-4 m-4">
-                    <p className="my-4">Basic Plan:Essential Access</p>
+                    <p className="my-4">Basic Plan: Essential Access</p>
                     <h1 className="text-4xl my-2">Free</h1>
-                    <p className="text-base my-6 font-thin">Free plan for select programs through convenient one-time purchases. 
-                    Dive into essential soft skills training tailored to your needs, without the commitment of a subscription.</p>
+                    <p className="text-base my-6 font-thin">Dive into essential soft skills training tailored to your needs, without the commitment of a subscription.</p>
                     <ul className="list-none text-sm my-4">
                         <li className="flex items-center">
                             <CgChevronRightO size={23} color="blue" className="mr-2" />Select programs available for one-time purchase.
@@ -31,10 +30,9 @@ function Plans(){
                 </div>
 
                 <div className="border-4  border-blue-400 rounded-2xl p-4 m-4">
-                    <p className="my-4">Pro Plan:Unlimited Learning</p>
+                    <p className="my-4">Pro Plan: Unlimited Learning</p>
                     <h1 className="text-4xl my-6">RM 50<span className="text-xl">/month</span></h1>
-                    <p className="text-md my-2">Elevate your learning journey with our Pro Plan, granting you unlimited access to all programs through flexible monthly subscriptions. 
-                    Immerse yourself in comprehensive soft skills training, with the freedom to explore and grow at your own pace.</p>
+                    <p className="text-md my-2">Immerse yourself in comprehensive soft skills training, with the freedom to explore and grow at your own pace.</p>
                     <ul className="list-none text-sm my-4">
                        <li className="flex items-center">
                             <CgChevronRightO size={23} color="blue" className="mr-2" />Unlimited access to all programs.
@@ -50,10 +48,9 @@ function Plans(){
                 </div>
 
                 <div className="border-4 border-blue-400 rounded-2xl p-4 m-4">
-                    <p className="my-4">Premium Plan:Tailored Excellence</p>
+                    <p className="my-4">Premium Plan: Tailored Excellence</p>
                     <h1 className="text-4xl my-6">RM 150<span  className="text-xl">/month</span></h1>
-                    <p className="text-md my-2">Gain exclusive access to premium content and receive personalized coaching sessions from industry experts. 
-                    Accelerate your growth and unlock your full potential with tailored guidance and support.</p>
+                    <p className="text-md my-2">Accelerate your growth and unlock your full potential with tailored guidance and support.</p>
                     <ul className="text-sm my-4">
                        <li className="flex items-center">
                             <CgChevronRightO size={23} color="blue" className="mr-2" />Exclusive access to premium content.</li>
