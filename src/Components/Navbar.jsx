@@ -20,9 +20,6 @@ function Navbar(){
                         <a href="#feature">Features</a>
                     </li>
                     <li className="p-3">
-                        <a href="testimoni">Testimonials</a>
-                    </li>
-                    <li className="p-3">
                         <a href="#plans">Plans</a>
                     </li>
                     <li className="p-3">
