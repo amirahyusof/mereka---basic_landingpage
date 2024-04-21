@@ -10,8 +10,9 @@ function Navbar(){
     }
 
     return(
-        <div className="flex justify-between items-center h-24 px-16 text-white shadow-lg shadow-blue-300">
-                <h1 className="w-full ml-4 text-2xl font-bold text-[#F8F6E3]">Aka<span className="text-[#6AD4DD]">demy</span></h1>
+        <div className="fixed w-full bg-[#365486] top-0 z-50 transition-all duration-1000">
+            <div className="flex justify-between items-center h-24 px-16 text-white shadow-lg shadow-blue-300">
+                <h1 className="w-full ml-4 text-3xl font-bold text-[#F8F6E3]">Aka<span className="text-[#0F1035]">demy</span></h1>
                 <ul className="hidden md:flex mx-6 w-[50%] left-[50%]">
                     <li className="p-3">
                         <a href="#home">Home</a>
@@ -22,8 +23,8 @@ function Navbar(){
                     <li className="p-3">
                         <a href="#plans">Plans</a>
                     </li>
-                    <li className="p-3">
-                        <a href="#contact">Connect with Us</a>
+                    <li className="bg-[#7FC7D9] w-[160px] rounded-md font-medium p-3 text-white">
+                        <a href="#contact" className="mx-auto justify-center">Connect with Us</a>
                     </li>
                 </ul>
 
@@ -32,8 +33,8 @@ function Navbar(){
 
             </div>
 
-            <div className= {nav ? "fixed right-0 top-0 w-[45%] h-full border-r border-r-white-900 bg-[#7AA2E3]" : "fixed left-[-100%]"}>
-                <ul className="md:flex p-2 px-8 text-xl mt-16 text-[#F8F6E3] uppercase">
+            <div className= {nav ? "fixed right-0 top-0 w-[45%] h-full border-r border-r-white-900 bg-[#DCF2F1]" : "fixed left-[-100%]"}>
+                <ul className="md:flex p-2 px-8 text-xl mt-16 text-black">
                     <li className="p-3">
                         <a href="#home">Home</a>
                     </li>
@@ -41,17 +42,19 @@ function Navbar(){
                         <a href="#feature">Features</a>
                     </li>
                     <li className="p-3">
-                        <a href="#testimoni">Testimonials</a>
+                        <a href="#testimony">Testimonials</a>
                     </li>
                     <li className="p-3">
                         <a href="#plans">Plans</a>
                     </li>
-                    <li className="p-3">
+                    <li className="bg-[#365486] w-[220px] rounded-md font-medium p-3 text-white">
                         <a href="#contact">Connect with Us</a>
                     </li>
                 </ul>
             </div>
         </div>
+        </div>
+        
     )
 }
 

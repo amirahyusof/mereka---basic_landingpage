@@ -9,8 +9,11 @@ import Testimony from "./Components/Testimony";
 import Action from "./Components/CTA";
 import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
+import { register } from "swiper/element/bundle";
 
 function App() {
+  register();
+  
   return (
     <div className="App">
       <Navbar />

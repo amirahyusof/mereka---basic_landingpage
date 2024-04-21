@@ -1,7 +1,7 @@
 import React from "react";
 import speakingImg from './Asset/services/speaking.jpg';
 import writingImg from './Asset/services/writing.jpg';
-import nonImg from './Asset/services/negotiation.jpg'
+import nonImg from './Asset/services/non-verbal.jpg'
 import negoImg from './Asset/services/negotiation.jpg';
 import socialImg from './Asset/services/socializing.jpg';
 import timeImg from './Asset/services/time.jpg';
@@ -13,11 +13,11 @@ function Services(){
     return(
         <div className="text-black mb-8 mx-6 " id="service">
             <div className="w-[350px] md:w-[550px] mt-[90px] mx-auto text-center justify-center">
-                <p className="text-[#7AA2E3] font-bold p-2 text-xl">Unlock Your Potential</p>
+                <p className="text-[#7FC7D9] font-bold p-2 text-xl">Unlock Your Potential</p>
                 <h1 className=" md:text-6xl sm:text-5xl text-3xl font-bold md:py-6">
                 Our Training, Your Triumph
                 </h1>
-                <p className="text-md text-black mt-4 mb-12">Discover our comprehensive programs covering a wide array of crucial soft skills, including</p>
+                <p className="text-md text-[#DCF2F1] mt-4 mb-12">Discover our comprehensive programs covering a wide array of crucial soft skills, including</p>
             </div>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-4 px-6 mx-auto text-center justify-center">
                 <div className="border-4 border-white rounded-xl">
