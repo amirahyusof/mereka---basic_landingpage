@@ -9,7 +9,7 @@ import lifetimeImg from './Asset/features/lifetime.png';
 
 function Features(){
     return(
-        <div className="text-black mb-8 mx-6" id="feature">
+        <div className="text-black my-[100px] mx-6" id="feature">
             <div className="w-[650px] md:w-[850px] mt-[90px] mx-auto text-center justify-center">
                 <p className="text-[#7FC7D9] font-bold p-2 text-xl">Features</p>
                 <h1 className=" md:text-6xl sm:text-5xl text-3xl font-bold md:py-6">

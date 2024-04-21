@@ -11,7 +11,7 @@ import 'swiper/css/autoplay';
 function Testimony(){
 
     return(
-        <div  className="text-black mb-8 mx-6 mt-[170px]" id="testimony">
+        <div  className="text-black mx-6 my-[150px]" id="testimony">
             <div className="w-[350px] md:w-[550px]  mx-auto text-center justify-center">
                 <p className="text-[#7FC7D9] font-bold p-2 text-xl">Boost Your Skills</p>
                 <h1 className=" md:text-6xl sm:text-5xl text-3xl font-bold md:py-6">

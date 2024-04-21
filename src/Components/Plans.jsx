@@ -3,8 +3,8 @@ import { CgChevronRightO } from "react-icons/cg";
 
 function Plans(){
     return(
-        <div className="text-black mb-8" id="plans">
-            <div className="w-[350px] md:w-[550px] mt-[220px] md:mt-[600px] mx-auto text-center justify-center">
+        <div className="text-black my-[200px]" id="plans">
+            <div className="w-[350px] md:w-[550px]  mx-auto text-center justify-center">
                 <p className="text-[#365486] font-bold p-2 text-xl">Subscription Choices</p>
                 <h1 className=" md:text-6xl sm:text-5xl text-3xl font-bold md:py-6">
                 Elevate Your Learning Journey

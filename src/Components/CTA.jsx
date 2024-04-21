@@ -1,6 +1,7 @@
 import React from "react";
 import actionImg from './Asset/action.jpg';
 
+
 function Action(){
     return(
         <div className="text-white grid md:grid-cols-2 mb-8" id="action">
@@ -23,6 +24,7 @@ function Action(){
                 <img src={actionImg} className="w-[550px] md:w-[600px] rounded-xl" alt="" />
             </div>
         </div>
+       
     )
 }
 
