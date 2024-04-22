@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/mereka-basic_landingpage(Akademy)/static/css/main.d1ae2ab2.css",
+    "main.js": "/mereka-basic_landingpage(Akademy)/static/js/main.30362641.js",
+    "static/media/socializing.jpg": "/mereka-basic_landingpage(Akademy)/static/media/socializing.7d4299d5aaa400f341eb.jpg",
+    "static/media/writing.jpg": "/mereka-basic_landingpage(Akademy)/static/media/writing.e0508a8fff074db816d2.jpg",
+    "static/media/emotional.jpg": "/mereka-basic_landingpage(Akademy)/static/media/emotional.77349a3ec7033194d7f1.jpg",
+    "static/media/hero-img.png": "/mereka-basic_landingpage(Akademy)/static/media/hero-img.d37268be348c40d53ed5.png",
+    "static/media/non-verbal.jpg": "/mereka-basic_landingpage(Akademy)/static/media/non-verbal.f787d7124aef14ed23f6.jpg",
+    "static/media/time.jpg": "/mereka-basic_landingpage(Akademy)/static/media/time.3f51c8365a8572046816.jpg",
+    "static/media/action.jpg": "/mereka-basic_landingpage(Akademy)/static/media/action.00cc0b6aa889003ade43.jpg",
+    "static/media/speaking.jpg": "/mereka-basic_landingpage(Akademy)/static/media/speaking.08ecb12471b3530cbb9f.jpg",
+    "static/media/thinking.jpg": "/mereka-basic_landingpage(Akademy)/static/media/thinking.abccb96e7dc35fd04932.jpg",
+    "static/media/negotiation.jpg": "/mereka-basic_landingpage(Akademy)/static/media/negotiation.6cf1f16c1164b599975f.jpg",
+    "static/media/support.png": "/mereka-basic_landingpage(Akademy)/static/media/support.0609ad6d6985a6f3ed14.png",
+    "static/media/progress.png": "/mereka-basic_landingpage(Akademy)/static/media/progress.b0dc1621b1b405f37d25.png",
+    "static/media/lifetime.png": "/mereka-basic_landingpage(Akademy)/static/media/lifetime.bfca10815e8753178a85.png",
+    "static/media/comprehensive.png": "/mereka-basic_landingpage(Akademy)/static/media/comprehensive.99ce0f824c811f44dfb3.png",
+    "static/media/guidance.png": "/mereka-basic_landingpage(Akademy)/static/media/guidance.0a4aecbad01b539aa6cd.png",
+    "static/media/interactive.png": "/mereka-basic_landingpage(Akademy)/static/media/interactive.e97ec2e13e01c5dfa575.png",
+    "index.html": "/mereka-basic_landingpage(Akademy)/index.html",
+    "main.d1ae2ab2.css.map": "/mereka-basic_landingpage(Akademy)/static/css/main.d1ae2ab2.css.map",
+    "main.30362641.js.map": "/mereka-basic_landingpage(Akademy)/static/js/main.30362641.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1ae2ab2.css",
+    "static/js/main.30362641.js"
+  ]
+}
