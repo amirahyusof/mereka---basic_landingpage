@@ -21,32 +21,32 @@ The Akademy landing page is a minimalist page designed to showcase Akademy's onl
 This section is the first section users see when they visit landing page.
 It includes a prominent heading, a brief description of Akademy's offerings and call-to-action button to encourage users to explore more.
 
-![Hero Section](images-dp\hero-section.png)
+![Hero Section](images-dp/hero-section.png)
 
 ### Features Section
 This section highlights the key features and benefits of Akademy's services. It include a list of features with descriptive icons to visually represent each feature.
 
-![Features Section](images-dp\Features-section.png)
+![Features Section](images-dp/Features-section.png)
 
 ### Products/ Services Section
 This section showcase tha available learning programs offered by Akademy. It includes a list of products with desriptions to help users choose the most suitable program for their needs.
 
-![Services Section](images-dp\services-section.png)
+![Services Section](images-dp/services-section.png)
 
 ### Pricing Section
 This section outlines the diffrent choices of pricing available for Akademy's learning programs. It includes details of each plans such as features and pricing to assist users in making descisions.
 
-![Plans Section](images-dp\plans-section.png)
+![Plans Section](images-dp/plans-section.png)
 
 ### Testimonials Section
 This section display feedback and testimonials from satisfied learners who have benefited from Akademy's services.
 
-![Testimonials Section](images-dp\testimony-section.png)
+![Testimonials Section](images-dp/testimony-section.png)
 
 ### Contact section
 This section provides users a way to get in touch with Akademy for inquires, support or assistance. 
 
-![Contact Section](images-dp\contact-section.png)
+![Contact Section](images-dp/contact-section.png)
 
 ## 3. Styling
 1. Color Palette
