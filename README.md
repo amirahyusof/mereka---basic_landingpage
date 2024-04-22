@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# Akademy Landing Page Documentation
+This is a documentation for the Akademy landing page. Its will provides an overview of the structure, components and styles that used in building this landing page.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Table of Contents
+1. Introduction
+2. Components
+   - Hero Section
+   - Features Section
+   - Products/Services Section
+   - Pricing Section
+   - Testimonials Section
+   - Contact Section
+3. Styling
+4. Customization
 
-## Available Scripts
+## 1. Introduction
+The Akademy landing page is a minimalist page designed to showcase Akademy's online education and encourage visitors to sign up for learning programs. It aims to highlight the key features and benefits of Akademy'service while providing appealing and user-friendly inteface.
 
-In the project directory, you can run:
+## 2. Components
+# Hero Section
+This section is the first section users see when they visit landing page.
+It includes a prominent heading, a brief description of Akademy's offerings and call-to-action button to encourage users to explore more.
 
-### `npm start`
+![Hero Section](images-dp\hero-section.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Features Section
+This section highlights the key features and benefits of Akademy's services. It include a list of features with descriptive icons to visually represent each feature.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Features Section](images-dp\Features-section.png)
 
-### `npm test`
+# Products/ Services Section
+This section showcase tha available learning programs offered by Akademy. It includes a list of products with desriptions to help users choose the most suitable program for their needs.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Services Section](images-dp\services-section.png)
 
-### `npm run build`
+# Pricing Section
+This section outlines the diffrent choices of pricing available for Akademy's learning programs. It includes details of each plans such as features and pricing to assist users in making descisions.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Plans Section](images-dp\plans-section.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Testimonials Section
+This section display feedback and testimonials from satisfied learners who have benefited from Akademy's services.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Testimonials Section](images-dp\testimony-section.png)
 
-### `npm run eject`
+# Contact section
+This section provides users a way to get in touch with Akademy for inquires, support or assistance. 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Contact Section](images-dp\contact-section.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 3. Styling
+1. Color Palette
+- Akademy platform utilizes a carefully selected color palette to convey meaning, create visual hierarchy, and evoke emotion.
+- Examples: Primary colors for branding, secondary colors for accents, and neutral colors for text.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Typography
+- Typography plays a crucial role in the visual identity of the Akademy platform, with carefully chosen fonts for readability and aesthetics.
+- Examples: Poppins and sans-serif used for headings, body text and appropriate font sizes for different sizes.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. Layout
+- The layout of the Akademy platform is designed to optimize usability and readability across various devices and screen sizes.
+- Examples: Responsive layout with flexible grids, consistent spacing, and clear visual hierarchy.
 
-## Learn More
+## 4. Customization
+The Akademy landing page can be customized to suit specific branding and design preferences. Customization options include:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Color Scheme: Update the color scheme to align with brand guidelines.
+- Typography: Customize fonts and typography styles for headings    paragraphs, and other elements.
+- Content: Modify content, such as text, images, and testimonials, to reflect the unique offerings of Akademy.
+- Layout: Adjust the layout and arrangement of sections to optimize user experience and visual appeal.
+- Components: Extend or modify existing components or create new ones to add additional functionality or features.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
