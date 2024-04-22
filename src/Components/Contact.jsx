@@ -13,9 +13,16 @@ function Contact(){
 
     }
 
+    const scrollToTop = () => {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+    };
+
     return(
         <div className=" mt-[150px] gap-4 text-black mb-8" id="contact">
-            <div className="grid grid-cols-2">
+            <div className="grid sm:grid-cols-2">
             <div className="w-[350px] md:w-[550px] mt-8 mx-auto text-center justify-center">
                 <p className="text-[#7FC7D9] font-bold p-2 text-xl">Contact Us</p>
                 <h1 className="text-white md:text-6xl sm:text-5xl text-4xl font-bold md:py-6 mb-8">Let's Stay Connected</h1>
@@ -38,8 +45,9 @@ function Contact(){
             </form>
             </div>
            
-           <div className="mx-auto text-center text-white my-4">
-                <p>Go to top<IoMdRocket size={30} color="white" /></p>
+           <div className="flex justify-center items-center text-white my-4">
+                <p onClick={scrollToTop} style={{cursor: "pointer"}} className="flex items-center">
+                Go to top<IoMdRocket size={30} color="white" /></p>
            </div> 
         </div>
     )

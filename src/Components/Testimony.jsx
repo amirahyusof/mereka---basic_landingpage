@@ -18,11 +18,11 @@ function Testimony(){
                 What people say about 
                 <span className="text-white"> Aka</span><span className="text-[#0F1035]">demy</span>
                 </h1>
-                <p className="text-md text-[#DCF2F1] mt-4 mb-12">Discover the impact of our transformative programs</p>
+                <p className="text-md text-[#DCF2F1] mt-4 mb-12 p-2">Discover the impact of our transformative programs</p>
             </div>
 
 
-            <div className="bg-[#365486] text-white w-[650px] md:w-[850px] h-[250px] md:h-[300px] mx-auto justify-center border-4 border-blue-300 rounded-2xl">
+            <div className="bg-[#365486] text-white sm:w-[650px] md:w-[850px] sm:h-[250px] md:h-[300px] mx-auto justify-center border-4 border-blue-300 rounded-2xl">
             <Swiper
                 slidesPerView={1}
                 speed={500}

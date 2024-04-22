@@ -3,16 +3,16 @@ import { CgChevronRightO } from "react-icons/cg";
 
 function Plans(){
     return(
-        <div className="text-black my-[200px]" id="plans">
+        <div className="text-black py-20" id="plans">
             <div className="w-[350px] md:w-[550px]  mx-auto text-center justify-center">
-                <p className="text-[#365486] font-bold p-2 text-xl">Subscription Choices</p>
+                <p className="text-[#365486] font-bold p-2 text-xl mt-[15%]">Subscription Choices</p>
                 <h1 className=" md:text-6xl sm:text-5xl text-3xl font-bold md:py-6">
                 Elevate Your Learning Journey
                 </h1>
                 <p className="text-md text-[#DCF2F1] mt-4 mb-8">Choose the plan that suits your needs:</p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 mx-auto w-[450px] md:w-[1240px] gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-3 mx-auto w-[350px] md:w-[1240px] gap-6 mt-8">
                 <div className="border-4  border-blue-400 rounded-2xl p-4 m-4">
                     <p className="my-4">Basic Plan: Essential Access</p>
                     <h1 className="text-4xl my-2">Free</h1>
